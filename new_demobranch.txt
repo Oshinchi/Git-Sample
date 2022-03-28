@@ -1,0 +1,12 @@
+	cmd help commands
+	
+	CD             Displays the name of or changes the current directory.
+	CLS            Clears the screen.
+	CMD            Starts a new instance of the Windows command interpreter.
+	DIR            Displays a list of files and subdirectories in a directory.
+	EXIT 
+	VER
+	
+	
+	
+	
